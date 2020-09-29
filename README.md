@@ -19,5 +19,13 @@ Ahora veamos que nos indica el concepto de Recursividad para implementarlo en el
 
 Esta constituido por el main el cual contiene los mensajes que muestra al usuario y llamar a la funcion factorial la cual es encargada de realizar las operaciones:
 
+![1](https://user-images.githubusercontent.com/71147346/94584668-8f4aae80-0244-11eb-8e6d-0f4d5d2f54ea.jpg)
 
 Este seria la funcion factorial, donde se añade condiciones, asi como la implementacion de la recursividad, como vimos antes el numero introducido por el usuario debe ser multplicado por ese mismo por la funcion del factorial menos uno:
+
+![2](https://user-images.githubusercontent.com/71147346/94584671-8fe34500-0244-11eb-91c5-ea158c196e28.jpg)
+
+**Prueba del programa**
+
+Calculemos el factorial de 10:
+
