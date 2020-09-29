@@ -15,3 +15,9 @@ Ahora veamos que nos indica el concepto de Recursividad para implementarlo en el
 
 **Codigo en C++ Factorial de un numero**
 
+![codigo](https://user-images.githubusercontent.com/71147346/94583341-f0718280-0242-11eb-993a-0f76bc659603.JPG)
+
+Esta constituido por el main el cual contiene los mensajes que muestra al usuario y llamar a la funcion factorial la cual es encargada de realizar las operaciones:
+
+
+Este seria la funcion factorial, donde se añade condiciones, asi como la implementacion de la recursividad, como vimos antes el numero introducido por el usuario debe ser multplicado por ese mismo por la funcion del factorial menos uno:
