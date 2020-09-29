@@ -29,3 +29,12 @@ Este seria la funcion factorial, donde se añade condiciones, asi como la implem
 
 Calculemos el factorial de 10:
 
+![prueba 1](https://user-images.githubusercontent.com/71147346/94584935-f10b1880-0244-11eb-956a-1af9f5b2ccbc.JPG)
+
+Verificamos el resultado: 10!=1x2x3x4x5x6x7x8x9x10=**3628800**
+
+Calculemos el factorial de 8:
+
+![prueba 2](https://user-images.githubusercontent.com/71147346/94584933-f0728200-0244-11eb-9b03-e64b21d02f87.JPG)
+
+Verificamos el resultado: 8!=1x2x3x4x5x6x7x8=**40320**
